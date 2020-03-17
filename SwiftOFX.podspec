@@ -9,10 +9,10 @@ which contain account, statement, and transaction information from financial ins
 Most banking institutions can export account information in this file format.
                        DESC
 
-  s.homepage         = 'https://github.com/altece/SwiftOFX'
+  s.homepage         = 'https://github.com/diligentrobot/SwiftOFX'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = 'Steven Brunwasser'
-  s.source           = { :git => 'https://github.com/altece/SwiftOFX.git', :tag => "v#{s.version.to_s}" }
+  s.source           = { :git => 'https://github.com/diligentrobot/SwiftOFX.git', :tag => "v#{s.version.to_s}" }
 
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.10'
